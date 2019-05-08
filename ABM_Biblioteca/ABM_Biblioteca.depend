@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1557316509 source:d:\parcial2da parte\abm_biblioteca\autores.c
+	"Autores.h"
+	"input.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1557316509 d:\parcial2da parte\abm_biblioteca\autores.h
+
+1557316510 d:\parcial2da parte\abm_biblioteca\input.h
+
+1557316509 source:d:\parcial2da parte\abm_biblioteca\fecha.c
+	"Fecha.h"
+	"input.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1557323068 d:\parcial2da parte\abm_biblioteca\fecha.h
+
+1557316510 source:d:\parcial2da parte\abm_biblioteca\input.c
+	"input.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1557324129 source:d:\parcial2da parte\abm_biblioteca\libros.c
+	"Libros.h"
+	"input.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1557324129 d:\parcial2da parte\abm_biblioteca\libros.h
+
+1557325358 source:d:\parcial2da parte\abm_biblioteca\prestamos.c
+	"Prestamos.h"
+	"input.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1557325358 d:\parcial2da parte\abm_biblioteca\prestamos.h
+	"Fecha.h"
+	"Socios.h"
+	"Libros.h"
+
+1557316509 d:\parcial2da parte\abm_biblioteca\socios.h
+	"Fecha.h"
+
+1557316509 source:d:\parcial2da parte\abm_biblioteca\socios.c
+	"Socios.h"
+	"input.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1557321698 source:d:\parcial2da parte\abm_biblioteca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"input.h"
+	"Autores.h"
+	"Fecha.h"
+	"Libros.h"
+	"Prestamos.h"
+	"Socios.h"
+
